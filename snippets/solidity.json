@@ -1,0 +1,21 @@
+{
+    "Function": {
+      "prefix": "function",
+      "body": [
+        "function ${1:functionName}(${2}) public ${3} {",
+        "\t$0",
+        "}"
+      ],
+      "description": "Create a function"
+    },
+    "Contract": {
+      "prefix": "contract",
+      "body": [
+        "contract ${1:ContractName} {",
+        "\t$0",
+        "}"
+      ],
+      "description": "Create a contract"
+    }
+  }
+  

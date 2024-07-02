@@ -1,0 +1,19 @@
+{
+    "scopeName": "source.solidity",
+    "patterns": [
+      {
+        "include": "#keywords"
+      }
+    ],
+    "repository": {
+      "keywords": {
+        "patterns": [
+          {
+            "name": "keyword.control.solidity",
+            "match": "\\b(contract|function|modifier|event|struct|enum|mapping|address|bool|string|int|uint|bytes|public|private|internal|external|payable|view|pure|constant|returns|emit|require|revert|assert|for|if|else|while|do|break|continue|return|new|delete|true|false)\\b"
+          }
+        ]
+      }
+    }
+  }
+  
