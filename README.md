@@ -17,6 +17,4 @@ Code snippets are predefined templates that help you write common code structure
 
 Deploying smart contracts can be a complex and error-prone process. This extension simplifies deployment by providing a command to deploy smart contracts directly to a local Ethereum blockchain (such as Ganache). This feature automates the deployment steps, allowing developers to focus on writing and testing their contracts rather than managing the deployment process.
 
----
 
-This explanation covers the key points of each feature in a concise manner, ensuring clarity without being overly detailed.
